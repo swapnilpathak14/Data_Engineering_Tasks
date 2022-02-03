@@ -1,0 +1,427 @@
+,S.No,date,product_info,time,date_new,hour,SNo,Date,GMV
+0,1,2021-07-22,"[{
+    ""id"": 1,
+    ""product_id"": ""33-745-5073"",
+    ""product name"": ""Betonica Rosmarinus"",
+    ""qty"": 2,
+    ""price"": 8
+  }, {
+    ""id"": 2,
+    ""product_id"": ""70-530-5687"",
+    ""product name"": ""Olive Oil and Lemon Antibacterial Foaming Hand Wash"",
+    ""qty"": 2,
+    ""price"": 26
+  }]",2022-02-02 15:45:00,July-2021,15,1,04/12/2021,2518
+1,2,2021-10-21,"[{
+    ""id"": 3,
+    ""product_id"": ""48-081-0206"",
+    ""product name"": ""Fycompa"",
+    ""qty"": 3,
+    ""price"": 91
+  }, {
+    ""id"": 4,
+    ""product_id"": ""39-335-0082"",
+    ""product name"": ""Diphenhydramine Hydrochloride"",
+    ""qty"": 9,
+    ""price"": 89
+  }, {
+    ""id"": 5,
+    ""product_id"": ""84-589-2764"",
+    ""product name"": ""Lansoprazole"",
+    ""qty"": 5,
+    ""price"": 55
+  }]",2022-02-02 20:37:00,October-2021,20,2,18/05/2021,3483
+2,3,2021-04-21,"[{
+    ""id"": 6,
+    ""product_id"": ""31-992-7300"",
+    ""product name"": ""LBEL HYDRATESS"",
+    ""qty"": 10,
+    ""price"": 48
+  }]",2022-02-02 15:15:00,April-2021,15,3,16/09/2021,1664
+3,4,2021-10-20,"[{
+    ""id"": 7,
+    ""product_id"": ""99-904-8455"",
+    ""product name"": ""CELLULAR RADIANCE SUNSCREEN SPF 30"",
+    ""qty"": 7,
+    ""price"": 37
+  }, {
+    ""id"": 8,
+    ""product_id"": ""72-002-1241"",
+    ""product name"": ""SINGULAIR"",
+    ""qty"": 8,
+    ""price"": 94
+  }, {
+    ""id"": 9,
+    ""product_id"": ""11-911-3248"",
+    ""product name"": ""Drainage"",
+    ""qty"": 9,
+    ""price"": 75
+  }]
+  ",2022-02-02 05:35:00,October-2021,5,4,15/04/2021,1720
+4,5,2021-05-23,"[{
+    ""id"": 10,
+    ""product_id"": ""37-943-6902"",
+    ""product name"": ""Assured Extra Strength Cold n hot"",
+    ""qty"": 11,
+    ""price"": 1
+  }, {
+    ""id"": 11,
+    ""product_id"": ""58-077-5323"",
+    ""product name"": ""Freshmint Premium Anticavity"",
+    ""qty"": 11,
+    ""price"": 64
+  }]",2022-02-02 14:04:00,May-2021,14,5,27/11/2021,1515
+5,6,2021-09-02,"[{
+    ""id"": 1,
+    ""product_id"": ""33-745-5073"",
+    ""product name"": ""Betonica Rosmarinus"",
+    ""qty"": 10,
+    ""price"": 8
+  }, {
+    ""id"": 2,
+    ""product_id"": ""70-530-5687"",
+    ""product name"": ""Olive Oil and Lemon Antibacterial Foaming Hand Wash"",
+    ""qty"": 12,
+    ""price"": 26
+  }]",2022-02-02 08:48:00,September-2021,8,6,10/02/2021,9916
+6,7,2021-09-10,"[{
+    ""id"": 3,
+    ""product_id"": ""48-081-0206"",
+    ""product name"": ""Fycompa"",
+    ""qty"": 3,
+    ""price"": 91
+  }, {
+    ""id"": 4,
+    ""product_id"": ""39-335-0082"",
+    ""product name"": ""Diphenhydramine Hydrochloride"",
+    ""qty"": 4,
+    ""price"": 89
+  }, {
+    ""id"": 5,
+    ""product_id"": ""84-589-2764"",
+    ""product name"": ""Lansoprazole"",
+    ""qty"": 5,
+    ""price"": 55
+  }]",2022-02-02 15:46:00,September-2021,15,7,30/06/2021,5680
+7,8,2021-10-05,"[{
+    ""id"": 6,
+    ""product_id"": ""31-992-7300"",
+    ""product name"": ""LBEL HYDRATESS"",
+    ""qty"": 6,
+    ""price"": 48
+  }]",2022-02-02 17:58:00,October-2021,17,8,20/05/2021,6380
+8,9,2021-11-23,"[{
+    ""id"": 7,
+    ""product_id"": ""99-904-8455"",
+    ""product name"": ""CELLULAR RADIANCE SUNSCREEN SPF 30"",
+    ""qty"": 7,
+    ""price"": 37
+  }, {
+    ""id"": 8,
+    ""product_id"": ""72-002-1241"",
+    ""product name"": ""SINGULAIR"",
+    ""qty"": 18,
+    ""price"": 94
+  }, {
+    ""id"": 9,
+    ""product_id"": ""11-911-3248"",
+    ""product name"": ""Drainage"",
+    ""qty"": 19,
+    ""price"": 75
+  }]
+  ",2022-02-02 06:04:00,November-2021,6,9,26/03/2021,4183
+9,10,2021-12-23,"[{
+    ""id"": 1,
+    ""product_id"": ""33-745-5073"",
+    ""product name"": ""Betonica Rosmarinus"",
+    ""qty"": 1,
+    ""price"": 8
+  }, {
+    ""id"": 2,
+    ""product_id"": ""70-530-5687"",
+    ""product name"": ""Olive Oil and Lemon Antibacterial Foaming Hand Wash"",
+    ""qty"": 2,
+    ""price"": 26
+  }]",2022-02-02 21:09:00,December-2021,21,10,11/06/2021,3047
+10,11,2021-02-28,"[{
+    ""id"": 3,
+    ""product_id"": ""48-081-0206"",
+    ""product name"": ""Fycompa"",
+    ""qty"": 3,
+    ""price"": 91
+  }, {
+    ""id"": 4,
+    ""product_id"": ""39-335-0082"",
+    ""product name"": ""Diphenhydramine Hydrochloride"",
+    ""qty"": 4,
+    ""price"": 89
+  }, {
+    ""id"": 5,
+    ""product_id"": ""84-589-2764"",
+    ""product name"": ""Lansoprazole"",
+    ""qty"": 5,
+    ""price"": 55
+  }]",2022-02-02 18:47:00,February-2021,18,11,26/06/2021,9188
+11,12,2021-06-22,"[{
+    ""id"": 6,
+    ""product_id"": ""31-992-7300"",
+    ""product name"": ""LBEL HYDRATESS"",
+    ""qty"": 6,
+    ""price"": 48
+  }]",2022-02-02 17:47:00,June-2021,17,12,08/06/2021,8540
+12,13,2021-07-07,"[{
+    ""id"": 7,
+    ""product_id"": ""99-904-8455"",
+    ""product name"": ""CELLULAR RADIANCE SUNSCREEN SPF 30"",
+    ""qty"": 7,
+    ""price"": 37
+  }, {
+    ""id"": 8,
+    ""product_id"": ""72-002-1241"",
+    ""product name"": ""SINGULAIR"",
+    ""qty"": 8,
+    ""price"": 94
+  }, {
+    ""id"": 9,
+    ""product_id"": ""11-911-3248"",
+    ""product name"": ""Drainage"",
+    ""qty"": 9,
+    ""price"": 75
+  }]
+  ",2022-02-02 09:12:00,July-2021,9,13,07/04/2021,3118
+13,14,2021-07-07,"[{
+    ""id"": 1,
+    ""product_id"": ""33-745-5073"",
+    ""product name"": ""Betonica Rosmarinus"",
+    ""qty"": 1,
+    ""price"": 8
+  }, {
+    ""id"": 2,
+    ""product_id"": ""70-530-5687"",
+    ""product name"": ""Olive Oil and Lemon Antibacterial Foaming Hand Wash"",
+    ""qty"": 2,
+    ""price"": 26
+  }]",2022-02-02 08:04:00,July-2021,8,14,12/05/2021,4312
+14,15,2021-03-26,"[{
+    ""id"": 3,
+    ""product_id"": ""48-081-0206"",
+    ""product name"": ""Fycompa"",
+    ""qty"": 3,
+    ""price"": 91
+  }, {
+    ""id"": 4,
+    ""product_id"": ""39-335-0082"",
+    ""product name"": ""Diphenhydramine Hydrochloride"",
+    ""qty"": 4,
+    ""price"": 89
+  }, {
+    ""id"": 5,
+    ""product_id"": ""84-589-2764"",
+    ""product name"": ""Lansoprazole"",
+    ""qty"": 4,
+    ""price"": 55
+  }]",2022-02-02 22:53:00,March-2021,22,15,07/08/2021,9022
+15,16,2022-09-01,"[{
+    ""id"": 6,
+    ""product_id"": ""31-992-7300"",
+    ""product name"": ""LBEL HYDRATESS"",
+    ""qty"": 6,
+    ""price"": 48
+  }]",2022-02-02 08:42:00,September-2022,8,16,24/01/2021,6824
+16,17,2021-06-28,"[{
+    ""id"": 7,
+    ""product_id"": ""99-904-8455"",
+    ""product name"": ""CELLULAR RADIANCE SUNSCREEN SPF 30"",
+    ""qty"": 7,
+    ""price"": 37
+  }, {
+    ""id"": 8,
+    ""product_id"": ""72-002-1241"",
+    ""product name"": ""SINGULAIR"",
+    ""qty"": 8,
+    ""price"": 94
+  }, {
+    ""id"": 9,
+    ""product_id"": ""11-911-3248"",
+    ""product name"": ""Drainage"",
+    ""qty"": 9,
+    ""price"": 75
+  }]
+  ",2022-02-02 20:19:00,June-2021,20,17,23/03/2021,6115
+17,18,2021-11-26,"[{
+    ""id"": 1,
+    ""product_id"": ""33-745-5073"",
+    ""product name"": ""Betonica Rosmarinus"",
+    ""qty"": 1,
+    ""price"": 8
+  }, {
+    ""id"": 2,
+    ""product_id"": ""70-530-5687"",
+    ""product name"": ""Olive Oil and Lemon Antibacterial Foaming Hand Wash"",
+    ""qty"": 2,
+    ""price"": 26
+  }]",2022-02-02 08:05:00,November-2021,8,18,05/05/2021,1606
+18,19,2021-04-05,"[{
+    ""id"": 3,
+    ""product_id"": ""48-081-0206"",
+    ""product name"": ""Fycompa"",
+    ""qty"": 3,
+    ""price"": 91
+  }, {
+    ""id"": 4,
+    ""product_id"": ""39-335-0082"",
+    ""product name"": ""Diphenhydramine Hydrochloride"",
+    ""qty"": 4,
+    ""price"": 89
+  }, {
+    ""id"": 5,
+    ""product_id"": ""84-589-2764"",
+    ""product name"": ""Lansoprazole"",
+    ""qty"": 5,
+    ""price"": 55
+  }]",2022-02-02 16:24:00,April-2021,16,19,14/05/2021,2582
+19,20,2021-06-16,"[{
+    ""id"": 6,
+    ""product_id"": ""31-992-7300"",
+    ""product name"": ""LBEL HYDRATESS"",
+    ""qty"": 6,
+    ""price"": 48
+  }]",2022-02-02 16:14:00,June-2021,16,20,26/11/2021,7416
+20,21,2022-01-01,"[{
+    ""id"": 7,
+    ""product_id"": ""99-904-8455"",
+    ""product name"": ""CELLULAR RADIANCE SUNSCREEN SPF 30"",
+    ""qty"": 7,
+    ""price"": 37
+  }, {
+    ""id"": 8,
+    ""product_id"": ""72-002-1241"",
+    ""product name"": ""SINGULAIR"",
+    ""qty"": 8,
+    ""price"": 94
+  }, {
+    ""id"": 9,
+    ""product_id"": ""11-911-3248"",
+    ""product name"": ""Drainage"",
+    ""qty"": 9,
+    ""price"": 75
+  }]
+  ",2022-02-02 11:16:00,January-2022,11,21,16/05/2021,9536
+21,22,2021-09-14,"[{
+    ""id"": 1,
+    ""product_id"": ""33-745-5073"",
+    ""product name"": ""Betonica Rosmarinus"",
+    ""qty"": 1,
+    ""price"": 8
+  }, {
+    ""id"": 2,
+    ""product_id"": ""70-530-5687"",
+    ""product name"": ""Olive Oil and Lemon Antibacterial Foaming Hand Wash"",
+    ""qty"": 2,
+    ""price"": 26
+  }]",2022-02-02 10:56:00,September-2021,10,22,22/03/2021,3530
+22,23,2021-06-04,"[{
+    ""id"": 3,
+    ""product_id"": ""48-081-0206"",
+    ""product name"": ""Fycompa"",
+    ""qty"": 3,
+    ""price"": 91
+  }, {
+    ""id"": 4,
+    ""product_id"": ""39-335-0082"",
+    ""product name"": ""Diphenhydramine Hydrochloride"",
+    ""qty"": 4,
+    ""price"": 89
+  }, {
+    ""id"": 5,
+    ""product_id"": ""84-589-2764"",
+    ""product name"": ""Lansoprazole"",
+    ""qty"": 5,
+    ""price"": 55
+  }]",2022-02-02 21:25:00,June-2021,21,23,12/11/2021,4868
+23,24,2021-07-07,"[{
+    ""id"": 6,
+    ""product_id"": ""31-992-7300"",
+    ""product name"": ""LBEL HYDRATESS"",
+    ""qty"": 6,
+    ""price"": 48
+  }]",2022-02-02 03:55:00,July-2021,3,24,01/08/2021,1659
+24,25,2021-08-19,"[{
+    ""id"": 7,
+    ""product_id"": ""99-904-8455"",
+    ""product name"": ""CELLULAR RADIANCE SUNSCREEN SPF 30"",
+    ""qty"": 7,
+    ""price"": 37
+  }, {
+    ""id"": 8,
+    ""product_id"": ""72-002-1241"",
+    ""product name"": ""SINGULAIR"",
+    ""qty"": 8,
+    ""price"": 94
+  }, {
+    ""id"": 9,
+    ""product_id"": ""11-911-3248"",
+    ""product name"": ""Drainage"",
+    ""qty"": 9,
+    ""price"": 75
+  }]
+  ",2022-02-02 15:46:00,August-2021,15,25,24/03/2021,5162
+25,26,2021-10-31,"[{
+    ""id"": 1,
+    ""product_id"": ""33-745-5073"",
+    ""product name"": ""Betonica Rosmarinus"",
+    ""qty"": 1,
+    ""price"": 8
+  }, {
+    ""id"": 2,
+    ""product_id"": ""70-530-5687"",
+    ""product name"": ""Olive Oil and Lemon Antibacterial Foaming Hand Wash"",
+    ""qty"": 2,
+    ""price"": 26
+  }]",2022-02-02 21:33:00,October-2021,21,26,08/06/2021,3087
+26,27,2021-08-12,"[{
+    ""id"": 3,
+    ""product_id"": ""48-081-0206"",
+    ""product name"": ""Fycompa"",
+    ""qty"": 3,
+    ""price"": 91
+  }, {
+    ""id"": 4,
+    ""product_id"": ""39-335-0082"",
+    ""product name"": ""Diphenhydramine Hydrochloride"",
+    ""qty"": 4,
+    ""price"": 89
+  }, {
+    ""id"": 5,
+    ""product_id"": ""84-589-2764"",
+    ""product name"": ""Lansoprazole"",
+    ""qty"": 5,
+    ""price"": 55
+  }]",2022-02-02 10:05:00,August-2021,10,27,21/04/2021,7475
+27,28,2021-10-20,"[{
+    ""id"": 6,
+    ""product_id"": ""31-992-7300"",
+    ""product name"": ""LBEL HYDRATESS"",
+    ""qty"": 6,
+    ""price"": 48
+  }]",2022-02-02 09:36:00,October-2021,9,28,27/08/2021,8308
+28,29,2021-04-05,"[{
+    ""id"": 7,
+    ""product_id"": ""99-904-8455"",
+    ""product name"": ""CELLULAR RADIANCE SUNSCREEN SPF 30"",
+    ""qty"": 7,
+    ""price"": 37
+  }, {
+    ""id"": 8,
+    ""product_id"": ""72-002-1241"",
+    ""product name"": ""SINGULAIR"",
+    ""qty"": 8,
+    ""price"": 94
+  }, {
+    ""id"": 9,
+    ""product_id"": ""11-911-3248"",
+    ""product name"": ""Drainage"",
+    ""qty"": 9,
+    ""price"": 75
+  }]
+  ",2022-02-02 10:34:00,April-2021,10,29,16/08/2021,1281
